@@ -6,7 +6,7 @@ Instalação ⚙️
 
 git clone https://github.com/nycolli666/Complexo-dos-Crias
 
-cd Desk-Generator
+cd Complexo-Generator
 
 pip install -r requirements.txt
 
