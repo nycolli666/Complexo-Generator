@@ -4,7 +4,7 @@
 
 Instalação ⚙️
 
-git clone https://github.com/nycolli666/Complexo-dos-Crias
+git clone https://github.com/nycolli666/Complexo-Generator.git
 
 cd Complexo-Generator
 
